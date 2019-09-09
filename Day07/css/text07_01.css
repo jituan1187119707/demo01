@@ -1,0 +1,137 @@
+#div1{
+	width: 100%;
+		
+}
+#div1>img{
+	width: 100%;
+	
+}
+*{
+	margin: 0px;
+	
+}
+
+#div2{
+	display: flex;
+	
+	flex-wrap: wrap;
+	
+}
+#div2 > img{
+	width: 20%;
+	
+}
+
+#div3{
+ width: 100%;
+	
+	
+}
+#div5{
+	
+	width: 100%;
+}
+#div3> img{
+	
+	width: 100%;
+	
+}
+
+
+#div4{
+	display: flex;
+    flex-wrap: wrap;
+	width: 100%;
+	
+}
+#div4 >div{
+	width:33.3%;
+}
+#div4 >div>img{
+	width: 100%;
+}
+#div6{
+    width: 100%;
+    height:269px;
+    background-image: url(../唯品会VIP特卖会：品牌特卖- 唯品会_files/mst_a511c56da7514cf6cf68768df7f2d891.png);
+    background-repeat:no-repeat;
+    
+}
+#div6 >img{
+	width: 100%;
+}
+#div7{
+	justify-content:space-around;
+	display:flex;
+	flex-wrap: wrap;
+	width: 92%;
+	margin-top:-215px;
+	margin-left: 15px;
+}
+#div7 > img{
+	width: 21%;
+}
+#div8{
+	width: 100%;
+}
+#div8 >img{
+	width: 100%;
+	
+}
+#div9{
+	display: flex;
+	flex-wrap: wrap;
+	width: 100%;
+	justify-content: space-around;
+	margin-top: -200px;
+}
+#div9 >img{
+	width: 30.5%;
+	
+	
+}
+#div10{
+	width: 100%;
+
+}
+#div10 >img{
+	width: 100%;
+}
+#div11{
+	width: 100%;
+}
+#div11 >img{
+	width: 100%;
+}
+#divm{
+width: 100%;	
+}
+#divm >img{
+	width: 100%;
+}
+#divn{
+	width: 100%;
+}
+#divv{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content:space-between;
+	margin-top: -175px;
+	}
+#divv >img{
+	width:31.8%;
+}
+#divo{
+	width: 100%;
+}
+#divo >img{
+	width: 100%;
+}
+#divh{
+	width: 100%;
+	margin-top: -5px;
+	margin-left: 0px;
+}
+#divh >img{
+	width: 100%;
+}
